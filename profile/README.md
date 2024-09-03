@@ -1,18 +1,17 @@
-## ☕ 超大咖託管｜Coffee Host
-您的 Minecraft 主機託管之最佳選擇
+# 超便宜、高效能、低延遲的伺服器託管
+暑假結束了，還不知道要做什麼嗎？不如揪朋友一起來玩 Minecraft！<a:minecraft:1262740542736044103> 
 
-👋 您好，你是不是在找一個**好玩又便宜的 Minecraft 主機託管**？你是不是想和你的朋友一起在 Minecraft 裡面建造你的夢想世界？你是不是厭倦了那些貴得要死，卡得要命，還經常掉線的主機？😡
+還在用又貴又慢的伺服器託管嗎 💸？不妨參考一下我們的**[臺灣平價主機](<https://store.coffeehost.net/store/tw-economical>)**，每月只要 **NT$80** 起，即可獲得一臺**低延遲**、**快速**的遊戲主機！
 
-如果你的答案是「是」或「不是」，那麼你一定要來看看我們的**超大咖託管**！👍
+想找一個高性能的伺服器嗎？快來買我們的**[臺灣高效主機](<https://store.coffeehost.net/store/tw-supreme>)**，採用最高 **5.7 GHz** 的 **AMD Ryzen™ 9 7950X** <:ryzen9:1262741717891813437> 處理器，以及 **DDR5 記憶體**，讓您架設伺服器不卡頓 ⚡！
 
-超大咖託管是一個**專業的 Minecraft 主機託管平台**，我們提供**高性能**，**低延遲**，**高穩定**，**高安全**的 Minecraft 主機，讓你可以隨時隨地享受 Minecraft 的樂趣！😍
+另外，我們還提供 **🇹🇼 臺灣本地抗攻擊**及**🌏 全球邊緣加速節點**連線，臺灣直連延遲最低 **3 ms**！
+還在等什麼？現在就到到商店下單購買 [臺灣｜Minecraft 性能主機](<https://store.coffeehost.net/store/tw-performance>)，只要 **NT$95** 起，或是更高效能的[臺灣｜Minecraft 高效主機](<https://store.coffeehost.net/store/tw-supreme>)，也只要 **NT$110** 起！
 
-我們的價格非常實惠，只要 **59 TWD** 一個月！你就可以擁有一個擁有 **200% CPU、4 GiB 記憶體、10 GiB 儲存空間及抗攻擊**的 Minecraft 主機，還可以自由選擇你喜歡的版本、模組、插件、地圖等！😎
+💡 快到我們的 **[官方網站](https://coffeehost.net)** 了解更多！
 
-我們還有專業的客服團隊，為您解決任何問題，無論是技術上，還是遊戲上的，我們都會盡力幫您！👏
-
-您還在等什麼？趕快加入我們的 Discord 伺服器，瞭解更多詳情，註冊一個帳號，開始您的 Minecraft 之旅吧！🚀
-
-## - [官方網站](<https://coffeehost.net/>)、[狀態頁面](<https://status.coffeehost.net/>)
-## - [官方商店](<https://store.coffeehost.net/>)、[控制面板](<https://panel.coffeehost.net/>)
-## - [Instagram](<https://www.instagram.com/clubcoffeehub>)、[Discord]( https://discord.gg/2vA8ms9X7y )
+- ⭐ 官方網站：https://coffeehost.net/
+- 🛒 官方商店：<https://store.coffeehost.net/>
+- <:docs:1269550207247585317> 官方文檔：<https://docs.coffeehost.net/>
+- 🚦 狀態頁面：<https://status.coffeehost.net/>
+- <a:discord:1269547424339464222> Discord ：https://discord.gg/hpe2aWVaYs
