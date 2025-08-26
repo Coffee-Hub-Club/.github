@@ -1,17 +1,29 @@
-# 超便宜、高效能、低延遲的伺服器託管
-暑假結束了，還不知道要做什麼嗎？不如揪朋友一起來玩 Minecraft！
+# Coffee Host 超大咖託管
+想架設一個 Minecraft 伺服器嗎？選擇<u>**超大咖託管**</u>就對了！
+## 我們的優勢
+### 超便宜的價格換到物超所值的伺服器體驗
+**月繳只要 NT$89** 起，即可獲得一台高品質伺服器！
+### 超低延遲的抗攻擊連線
+採用台灣速連與多家抗 DDoS 攻擊廠商，保護伺服器的同時，延遲只有 **3ms**！<br/>
+臺灣本地機房，連線勝於新加坡、香港、日本等其他亞洲地區託管，遊玩不卡頓！<br/>
+-# 註：從臺北測試的數據，其他地區延遲可能更高或更低。中華電信光世代網路實測：新竹連線 4ms、高雄連線 7ms。
+### 超強的硬體配置
+從 Intel® Xeon® 處理器到最新發售的 **AMD Ryzen™ 9 9950X** 伺服器我們都有，您絕對能選到最適合您的系列！
+最高 **DDR5** 記憶體以及全系列採用**高速 NVMe SSD**，讀寫超快！
+### 每日節點備份
+我們**每天會進行節點備份作業**，並且資料保留至少三天，全方面保護您的伺服器資料安全！
+### 功能齊全的控制面板
+使用 Pterodactyl 圖形化控制面板，並且面板擁有中文介面，我們花許多心思在建構面板上，製作了許多功能，例如**一鍵模組包安裝器**，安裝模組包不再是麻煩事！安裝後開機，即可開始遊玩您的模組世界！
+### 支援 UDP 基岩版通訊協議
+Minecraft 伺服器全系列附贈 UDP 通訊協議，您可以輕鬆架設 Geyser，讓手機版也能與電腦版一起遊玩伺服器！
+並且我們亦有販售[**基岩版伺服器**](<https://store.coffeehost.net/store/tw-bedrock>)，下單後啟動即可直接連線遊玩！
+## 熱賣系列
+- [**臺灣 Minecraft 輕量主機**](<https://store.coffeehost.net/store/tw-light>)：價格絕對便宜，架設生存伺服器超輕鬆！
+- [**臺灣 Minecraft 性能主機**](<https://store.coffeehost.net/store/tw-performance>)：最高 i9-13900 處理器，架設小型插件/模組服都可以！
+- [**臺灣 Minecraft 極致主機**](<https://store.coffeehost.net/store/tw-extreme>)：**隆重當場！臺灣第一家 9950X 伺服器託管，極致效能！**
 
-還在用又貴又慢的伺服器託管嗎 💸？不妨參考一下我們的**[臺灣平價主機](<https://store.coffeehost.net/store/tw-economical>)**，每月只要 **NT$80** 起，即可獲得一臺**低延遲**、**快速**的遊戲主機！
+**立即體驗超優質伺服器（Java 任意版本）：__test.coffeehub.club__**
 
-想找一個高性能的伺服器嗎？快來買我們的**[臺灣高效主機](<https://store.coffeehost.net/store/tw-supreme>)**，採用最高 **5.7 GHz** 的 **AMD Ryzen™ 9 7950X** 處理器，以及 **DDR5 記憶體**，讓您架設伺服器不卡頓 ⚡！
-
-另外，我們還提供 **🇹🇼 臺灣本地抗攻擊**及**🌏 全球邊緣加速節點**連線，臺灣直連延遲最低 **3 ms**！
-還在等什麼？現在就到到商店下單購買 [臺灣｜Minecraft 性能主機](<https://store.coffeehost.net/store/tw-performance>)，只要 **NT$95** 起，或是更高效能的[臺灣｜Minecraft 高效主機](<https://store.coffeehost.net/store/tw-supreme>)，也只要 **NT$110** 起！
-
-💡 快到我們的 **[官方網站](https://coffeehost.net)** 了解更多！
-
-- ⭐ 官方網站：https://coffeehost.net/
-- 🛒 官方商店：<https://store.coffeehost.net/>
-- 官方文檔：<https://docs.coffeehost.net/>
-- 🚦 狀態頁面：<https://status.coffeehost.net/>
+- 官方網站：https://coffeehost.net/
+- 官方商店：https://store.coffeehost.net/
 - Discord ：https://discord.gg/hpe2aWVaYs
